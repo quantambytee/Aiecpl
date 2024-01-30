@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "thumb": "team-1.jpg",
+        "name": "Rodney J. Sabo",
+        "designation": "Design Lead",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "thumb": "team-2.jpg",
+        "name": "Ebony K. Hedrick",
+        "designation": "Design Lead",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "thumb": "team-3.jpg",
+        "name": "Craig B. Hoffman",
+        "designation": "Design Lead",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "thumb": "team-4.jpg",
+        "name": "Jeff R. Rodriguez",
+        "designation": "Design Lead",
+        "delay": 800
+    }
+]

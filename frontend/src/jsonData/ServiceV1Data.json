@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "thumb": "service-five-1.jpg",
+        "icon": "flaticon-computer",
+        "title": "Product Service",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+        "icon2": "fas fa-long-arrow-alt-right",
+        "title2": "Preparing For Your Business Success With IT Solution",
+        "text2": "Lorem ipsum dolor sit amet consectetur adipisc",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "thumb": "service-five-2.jpg",
+        "icon": "flaticon-web-development-4",
+        "title": "IT Management",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+        "icon2": "fas fa-long-arrow-alt-right",
+        "title2": "Preparing For Your Business Success With IT Solution",
+        "text2": "Lorem ipsum dolor sit amet consectetur adipisc",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "thumb": "service-five-3.jpg",
+        "icon": "flaticon-web",
+        "title": "Cloud Services",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+        "icon2": "fas fa-long-arrow-alt-right",
+        "title2": "Preparing For Your Business Success With IT Solution",
+        "text2": "Lorem ipsum dolor sit amet consectetur adipisc",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "thumb": "service-five-4.jpg",
+        "icon": "flaticon-data",
+        "title": "Machine Learning",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+        "icon2": "fas fa-long-arrow-alt-right",
+        "title2": "Preparing For Your Business Success With IT Solution",
+        "text2": "Lorem ipsum dolor sit amet consectetur adipisc",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "thumb": "service-five-1.jpg",
+        "icon": "flaticon-prototype",
+        "title": "Data Service",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+        "icon2": "fas fa-long-arrow-alt-right",
+        "title2": "Preparing For Your Business Success With IT Solution",
+        "text2": "Lorem ipsum dolor sit amet consectetur adipisc",
+        "delay": 1000
+    },
+    {
+        "id": 6,
+        "thumb": "service-five-2.jpg",
+        "icon": "flaticon-plan",
+        "title": "Web Service",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod",
+        "icon2": "fas fa-long-arrow-alt-right",
+        "title2": "Preparing For Your Business Success With IT Solution",
+        "text2": "Lorem ipsum dolor sit amet consectetur adipisc",
+        "delay": 1200
+    }
+]

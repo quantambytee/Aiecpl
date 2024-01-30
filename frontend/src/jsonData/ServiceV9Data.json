@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "icon": "icon1.png",
+        "title": "Threat Intelligence",
+        "text": "Pulvinar ornare in a sem. Quisque vulputate convallis nulla. In efficitur",
+        "icon2": "fas fa-angle-double-right",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "icon": "icon2.png",
+        "title": "Server Security",
+        "text": "Pulvinar ornare in a sem. Quisque vulputate convallis nulla. In efficitur",
+        "icon2": "fas fa-angle-double-right",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "icon": "icon3.png",
+        "title": "Database Security",
+        "text": "Pulvinar ornare in a sem. Quisque vulputate convallis nulla. In efficitur",
+        "icon2": "fas fa-angle-double-right",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "icon": "icon4.png",
+        "title": "Threat Intelligence",
+        "text": "Pulvinar ornare in a sem. Quisque vulputate convallis nulla. In efficitur",
+        "icon2": "fas fa-angle-double-right",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "icon": "icon2.png",
+        "title": "Server Security",
+        "text": "Pulvinar ornare in a sem. Quisque vulputate convallis nulla. In efficitur",
+        "icon2": "fas fa-angle-double-right",
+        "delay": 1000
+    },
+    {
+        "id": 6,
+        "icon": "icon3.png",
+        "title": "Database Security",
+        "text": "Pulvinar ornare in a sem. Quisque vulputate convallis nulla. In efficitur",
+        "icon2": "fas fa-angle-double-right",
+        "delay": 1200
+    },
+    {
+        "id": 7,
+        "icon": "icon1.png",
+        "title": "Threat Intelligence",
+        "text": "Pulvinar ornare in a sem. Quisque vulputate convallis nulla. In efficitur",
+        "icon2": "fas fa-angle-double-right",
+        "delay": 1400
+    },
+    {
+        "id": 8,
+        "icon": "icon2.png",
+        "title": "Server Security",
+        "text": "Pulvinar ornare in a sem. Quisque vulputate convallis nulla. In efficitur",
+        "icon2": "fas fa-angle-double-right",
+        "delay": 1600
+    }
+]

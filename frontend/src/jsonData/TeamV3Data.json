@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "thumb": "team-three-1.jpg",
+        "name": "Istiak Ahmed",
+        "designation": "CEO & Founder",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "thumb": "team-three-2.jpg",
+        "name": "Kenneth B. Jones",
+        "designation": "Web Developer",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "thumb": "team-three-3.jpg",
+        "name": "Marcelo L. Cameron",
+        "designation": "Graphics Designer",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "thumb": "team-1.jpg",
+        "name": "Istiak Ahmed",
+        "designation": "CEO & Founder",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "thumb": "team-2.jpg",
+        "name": "Kenneth B. Jones",
+        "designation": "Web Developer",
+        "delay": 1000
+    },
+    {
+        "id": 6,
+        "thumb": "team-3.jpg",
+        "name": "Marcelo L. Cameron",
+        "designation": "Graphics Designer",
+        "delay": 1200
+    }
+]

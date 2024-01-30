@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "thumb": "team-four-1.jpg",
+        "name": "Michael Phelps",
+        "designation": "Founder CEO",
+        "delay": 150
+    },
+    {
+        "id": 2,
+        "thumb": "team-four-2.jpg",
+        "name": "Emile Smith Rowe",
+        "designation": "Senior Manager",
+        "delay": 300
+    },
+    {
+        "id": 3,
+        "thumb": "team-four-3.jpg",
+        "name": "Michelle Williams",
+        "designation": "UIUX Designer",
+        "delay": 450
+    },
+    {
+        "id": 4,
+        "thumb": "team-four-4.jpg",
+        "name": "Rachel Weisz",
+        "designation": "Front End Developer",
+        "delay": 600
+    },
+    {
+        "id": 5,
+        "thumb": "team-three-1.jpg",
+        "name": "Michael Phelps",
+        "designation": "Founder CEO",
+        "delay": 750
+    },
+    {
+        "id": 6,
+        "thumb": "team-three-2.jpg",
+        "name": "Emile Smith Rowe",
+        "designation": "Senior Manager",
+        "delay": 900
+    },
+    {
+        "id": 7,
+        "thumb": "team-three-3.jpg",
+        "name": "Michelle Williams",
+        "designation": "UIUX Designer",
+        "delay": 1050
+    },
+    {
+        "id": 8,
+        "thumb": "team-three-1.jpg",
+        "name": "Rachel Weisz",
+        "designation": "Front End Developer",
+        "delay": 1200
+    }
+]

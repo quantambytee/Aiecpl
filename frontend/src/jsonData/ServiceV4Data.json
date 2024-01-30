@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "thumb": "service-1.jpg",
+        "category": "Web Development",
+        "category2": "IT Management",
+        "icon": "flaticon-settings-1",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "thumb": "service-2.jpg",
+        "category": "Data Analytics",
+        "category2": "Cloud Services",
+        "icon": "flaticon-seo-1",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "thumb": "service-3.jpg",
+        "category": "Mobile Development",
+        "category2": "Machine Learning",
+        "icon": "flaticon-web",
+        "delay": 600
+    }
+]

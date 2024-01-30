@@ -1,0 +1,34 @@
+[
+    {
+        "id": "1",
+        "icon": "flaticon flaticon-art",
+        "icon2": "fas fa-arrow-right",
+        "title": "Smarter Insights",
+        "text": "Sed ut persiciatis undnatus error sit voluptatem accuatie laudantie totam aperiam",
+        "delay": 200
+    },
+    {
+        "id": "2",
+        "icon": "flaticon flaticon-web",
+        "icon2": "fas fa-arrow-right",
+        "title": "Supper Faster",
+        "text": "Sed ut persiciatis undnatus error sit voluptatem accuatie laudantie totam aperiam",
+        "delay": 400
+    },
+    {
+        "id": "3",
+        "icon": "flaticon flaticon-3d",
+        "icon2": "fas fa-arrow-right",
+        "title": "Developer Friendly",
+        "text": "Sed ut persiciatis undnatus error sit voluptatem accuatie laudantie totam aperiam",
+        "delay": 600
+    },
+    {
+        "id": "4",
+        "icon": "flaticon flaticon-bars",
+        "icon2": "fas fa-arrow-right",
+        "title": "Organize Easily",
+        "text": "Sed ut persiciatis undnatus error sit voluptatem accuatie laudantie totam aperiam",
+        "delay": 800
+    }
+]

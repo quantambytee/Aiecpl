@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Machine Learning BootCamp",
+        "thumb": "service-seven1.png",
+        "icon": "fas fa-long-arrow-alt-right"
+    },
+    {
+        "id": 2,
+        "title": "Digital Data Consulting for Science lab",
+        "thumb": "service-seven2.png",
+        "icon": "fas fa-long-arrow-alt-right"
+    },
+    {
+        "id": 3,
+        "title": "Machine Learning BootCamp",
+        "thumb": "service-seven3.png",
+        "icon": "fas fa-long-arrow-alt-right"
+    },
+    {
+        "id": 4,
+        "title": "Machine Learning BootCamp",
+        "thumb": "service-seven1.png",
+        "icon": "fas fa-long-arrow-alt-right"
+    },
+    {
+        "id": 5,
+        "title": "Digital Data Consulting for Science lab",
+        "thumb": "service-seven2.png",
+        "icon": "fas fa-long-arrow-alt-right"
+    },
+    {
+        "id": 6,
+        "title": "Machine Learning BootCamp",
+        "thumb": "service-seven3.png",
+        "icon": "fas fa-long-arrow-alt-right"
+    }
+]
