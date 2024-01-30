@@ -8,6 +8,8 @@ import '@fortawesome/fontawesome-free/css/all.css';
 import 'swiper/css/bundle';
 import './assets/css/flaticon.css'
 import './assets/css/animate.css'
+
+// fknvjr
 import './assets/css/style.css'
 
 import { useEffect, useState } from 'react';
