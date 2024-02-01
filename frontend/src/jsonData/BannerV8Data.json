@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "thumb": "slide1.jpg",
+        "thumb": "./assets/images/heroImage.jpg",
         "subtitle": "Were the best Protect",
         "title": "We secure the World from cyber Threats",
         "text": "Phasellus nisl velit, interdum lobortis elit quis, placerat bibendum lorem. Maecenas eget mi quis enim",

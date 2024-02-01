@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { HashLink as Link } from 'react-router-hash-link';
 import logo from "/images/logos/logo-two.png";
-
+import logo1 from "../../assets/logo/bigLogo.png"
 function Drawer({ drawer, action }) {
 
     const [itemSize, setSize] = useState("0px");
@@ -29,7 +29,7 @@ function Drawer({ drawer, action }) {
                         <div className="col-12">
                             <div className={`offcanvas_menu_wrapper ${drawer ? "active" : ""}`} >
                                 <Link to="/#" className="offcanvas-brand text-center mb-40 d-block" >
-                                    <img src={logo} alt="logo" />
+                                    <img src={logo1} alt="logo" />
                                 </Link>
                                 <div id="menu" className="text-left">
                                     <ul className="offcanvas_main_menu">

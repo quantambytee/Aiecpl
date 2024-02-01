@@ -5,6 +5,7 @@ import { HashLink as Link } from 'react-router-hash-link';
 import MobileHeader from './MobileHeader';
 import NavigationMenu from './NavigationMenu';
 import MeetBtn from './MeetBtn';
+import logo1 from "../../assets/logo/biggerLogo.png"
 
 const HeaderMenuV1 = () => {
 
@@ -33,14 +34,14 @@ const HeaderMenuV1 = () => {
                     <div className="header-top bg-lighter py-10">
                         <div className="top-left">
                             <ul>
-                                <li>Call Us: <Link to="tel:548978478">548978478</Link></li>
-                                <li>Email us: <Link to="mailto:demo@example.com">demo@example.com</Link></li>
-                                <li>Our address: 45 Dream street Austria</li>
+                                <li>Call Us: <Link to="tel:548978478">+91 8789701805</Link></li>
+                                <li>Email us: <Link to="mailto:demo@example.com">info@aiecpl.in</Link></li>
+                                <li>Our address: Sinha Library Road, Patna 800001, Bihar India </li>
                             </ul>
                         </div>
                         <div className="top-right">
                             <div className="office-time">
-                                <i className="far fa-clock"></i><span>08:00 am - 06:00 pm</span>
+                                {/* <i className="far fa-clock"></i><span>08:00 am - 06:00 pm</span> */}
                             </div>
                             <div className="social-style-one">
                                 <SocialShare />
@@ -50,14 +51,14 @@ const HeaderMenuV1 = () => {
                     <div className="header-upper bg-white">
                         <div className="container-fluid clearfix">
                             <div className="header-inner d-flex align-items-center">
-                                <div className="logo-outer bg-blue py-30 px-85">
+                                <div className="logo-outer bg-blue py-30 px-85 logo-main">
                                     <div className="logo">
-                                        <Link to="/#"><img src={logo} alt="Logo" title="Logo" /></Link>
+                                        <Link to="/#"><img src={logo1} alt="Logo" title="Logo" /></Link>
                                     </div>
                                 </div>
                                 <div className="nav-outer clearfix d-flex align-items-center">
                                     <nav className="main-menu navbar-expand-lg">
-                                        <NavigationMenu />
+                                    <NavigationMenu />
                                     </nav>
                                     <MeetBtn />
                                 </div>

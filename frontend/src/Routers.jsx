@@ -1,15 +1,7 @@
 import React from 'react';
 import { Route, Routes } from 'react-router-dom';
-import HomeOne from './pages/homePages/HomeOne';
-import HomeTwo from './pages/homePages/HomeTwo';
-import HomeThree from './pages/homePages/HomeThree';
-import HomeFour from './pages/homePages/HomeFour';
-import HomeFive from './pages/homePages/HomeFive';
-import HomeSix from './pages/homePages/HomeSix';
-import HomeSeven from './pages/homePages/HomeSeven';
+
 import HomeEight from './pages/homePages/HomeEight';
-import HomeNine from './pages/homePages/HomeNine';
-import HomeTen from './pages/homePages/HomeTen';
 import About from './pages/aboutPages/About';
 import About2 from './pages/aboutPages/About2';
 import About3 from './pages/aboutPages/About3';
@@ -57,56 +49,9 @@ const Routers = () => {
     return (
         <>
             <Routes>
-                <Route path='/' element={<HomeOne />}></Route>
-                <Route path='/home-2' element={<HomeTwo />}></Route>
-                <Route path='/home-3' element={<HomeThree />}></Route>
-                <Route path='/home-4' element={<HomeFour />}></Route>
-                <Route path='/home-5' element={<HomeFive />}></Route>
-                <Route path='/home-6' element={<HomeSix />}></Route>
-                <Route path='/home-7' element={<HomeSeven />}></Route>
-                <Route path='/home-8' element={<HomeEight />}></Route>
-                <Route path='/home-9' element={<HomeNine />}></Route>
-                <Route path='/home-10' element={<HomeTen />}></Route>
-                <Route path='/about' element={<About />}></Route>
-                <Route path='/about-2' element={<About2 />}></Route>
-                <Route path='/about-3' element={<About3 />}></Route>
-                <Route path='/about-4' element={<About4 />}></Route>
-                <Route path='/about-5' element={<About5 />}></Route>
-                <Route path='/about-6' element={<About6 />}></Route>
-                <Route path='/about-7' element={<About7 />}></Route>
-                <Route path='/services' element={<Services />}></Route>
-                <Route path='/services-2' element={<Services2 />}></Route>
-                <Route path='/services-3' element={<Services3 />}></Route>
-                <Route path='/services-4' element={<Services4 />}></Route>
-                <Route path='/services-5' element={<Services5 />}></Route>
-                <Route path='/services-6' element={<Services6 />}></Route>
-                <Route path='/services-7' element={<Services7 />}></Route>
-                <Route path='/service-details' element={<ServicesDetails />}></Route>
-                <Route path='/counter' element={<CounterPage />}></Route>
-                <Route path='/shop' element={<Shop />}></Route>
-                <Route path='/shop-details' element={<ShopDetails />}></Route>
-                <Route path='/portfolio' element={<Portfolio />}></Route>
-                <Route path='/portfolio-2' element={<Portfolio2 />}></Route>
-                <Route path='/portfolio-3' element={<Portfolio3 />}></Route>
-                <Route path='/portfolio-4' element={<Portfolio4 />}></Route>
-                <Route path='/portfolio-details' element={<PortfolioDetails />}></Route>
-                <Route path='/team' element={<Team1 />}></Route>
-                <Route path='/team-2' element={<Team2 />}></Route>
-                <Route path='/team-3' element={<Team3 />}></Route>
-                <Route path='/team-4' element={<Team4 />}></Route>
-                <Route path='/team-profile' element={<TeamProfile />}></Route>
-                <Route path='/pricing' element={<Pricing />}></Route>
-                <Route path='/pricing-2' element={<Pricing2 />}></Route>
-                <Route path='/pricing-3' element={<Pricing3 />}></Route>
-                <Route path='/pricing-4' element={<Pricing4 />}></Route>
-                <Route path='/pricing-5' element={<Pricing5 />}></Route>
-                <Route path='/pricing-6' element={<Pricing6 />}></Route>
-                <Route path='/testimonial' element={<Testimonial />}></Route>
-                <Route path='/testimonial-2' element={<Testimonial2 />}></Route>
-                <Route path='/testimonial-3' element={<Testimonial3 />}></Route>
-                <Route path='/testimonial-4' element={<Testimonial4 />}></Route>
-                <Route path='/blog' element={<Blog />}></Route>
-                <Route path='/blog-details' element={<BlogDetails />}></Route>
+                <Route path='/' element={<HomeEight />}></Route>
+                
+                
                 <Route path='/contact' element={<Contact />}></Route>
                 <Route path='*' element={<Error404 />}></Route>
             </Routes>

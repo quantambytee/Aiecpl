@@ -1,15 +1,16 @@
 import React from 'react';
 import { Fade } from 'react-reveal';
 import { HashLink as Link } from 'react-router-hash-link';
-
+// import img from "../../assets/images/heroImage.jpg"
 const SingleBannerV8 = ({ banner }) => {
     const { thumb, subtitle, title, text, btn1Text, btnIcon, btn2Text } = banner
-
+    console.log("thumb",thumb);
     return (
         <>
             <div className="main-slider-item">
                 <div className="image">
-                    <img src={`/images/slider/${thumb}`} alt="Slider" />
+                    {/* <img src={`../../assets/images/${thumb}`} alt="Slider" /> */}
+                    <img src={thumb} alt="Slider" />
                 </div>
                 <div className="slider-caption">
                     <div className="container">

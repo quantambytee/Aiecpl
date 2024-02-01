@@ -1,5 +1,5 @@
 import React from 'react';
-import HeaderMenu8 from '../../components/header/HeaderMenu8';
+import HeaderMenuV1 from '../../components/header/HeaderMenuV1';
 import BannerV8 from '../../components/banner/BannerV8';
 import FeatureAbout from '../../components/others/FeatureAbout';
 import ServiceV9 from '../../components/service/ServiceV9';
@@ -14,7 +14,7 @@ import FooterV8 from '../../components/footer/FooterV8';
 const HomeEight = () => {
     return (
         <>
-            <HeaderMenu8 />
+            <HeaderMenuV1 />
             <BannerV8 />
             <FeatureAbout />
             <ServiceV9 />

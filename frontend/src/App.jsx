@@ -11,7 +11,7 @@ import './assets/css/animate.css'
 
 // fknvjr
 import './assets/css/style.css'
-
+import "./assets/css/styleMain.css"
 import { useEffect, useState } from 'react';
 import { Helmet } from 'react-helmet';
 import Layout from './components/layout/Layouts';
