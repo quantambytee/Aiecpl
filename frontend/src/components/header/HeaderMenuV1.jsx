@@ -53,7 +53,7 @@ const HeaderMenuV1 = () => {
                             <div className="header-inner d-flex align-items-center">
                                 <div className="logo-outer bg-blue py-30 px-85 logo-main">
                                     <div className="logo">
-                                        <Link to="/#"><img src={logo1} alt="Logo" title="Logo" /></Link>
+                                        <Link to="/#"><img src={logo} alt="Logo" title="Logo" /></Link>
                                     </div>
                                 </div>
                                 <div className="nav-outer clearfix d-flex align-items-center">

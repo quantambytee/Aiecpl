@@ -23,9 +23,7 @@ const BannerV8 = () => {
                             enabled: true,
                         }}
                     >
-                        {console.log("BannerV8Data",BannerV8Data)}
                         {BannerV8Data.map(banner =>
-                        
                             <SwiperSlide key={banner.id}>
                                 <SingleBannerV8 banner={banner} />
                             </SwiperSlide>

@@ -13,7 +13,7 @@ const CallToActionV4 = () => {
                             </div>
                         </div>
                         <div className="col-lg-4 text-lg-right">
-                            <Link to="/about#" className="theme-btn style-nine hover-two mb-20">Discover More <i className="far fa-paper-plane"></i></Link>
+                            <Link to="/#" className="theme-btn style-nine hover-two mb-20">Know More <i className="far fa-paper-plane"></i></Link>
                         </div>
                     </div>
                 </div>

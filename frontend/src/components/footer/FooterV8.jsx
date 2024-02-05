@@ -12,7 +12,7 @@ const FooterV8 = () => {
                         <div className="col-lg-3 col-sm-6">
                             <div className="footer-widget about-widget">
                                 <div className="footer-logo mb-25">
-                                    <Link to="/#"><img src={footerLogo} alt="Logo" /></Link>
+                                    {/* <Link to="/#"><img src={footerLogo} alt="Logo" /></Link> */}
                                 </div>
                                 <div className="text">
                                     Praesent eget ullamcorper elit, vel volutpat tellus. Aliquam auctor, neque quis blandit vestibulum,
@@ -50,9 +50,9 @@ const FooterV8 = () => {
                             <div className="footer-widget contact-widget">
                                 <h3 className="footer-title">Information</h3>
                                 <ul className="list-style-two">
-                                    <li><i className="fas fa-phone-alt"></i><span><b>Phone : </b> <a href="tel:(+001)256689">(+001) 256 689</a></span></li>
-                                    <li><i className="fas fa-envelope"></i><span><b>Email : </b> <a href="mailto:motal@gmail.com">motal@gmail.com</a></span></li>
-                                    <li><i className="fas fa-map-marker-alt"></i><span><b>Address : </b>9FW6+599 Egham, United Kingdom</span></li>
+                                    <li><i className="fas fa-phone-alt"></i><span><b>Phone : </b> <a href="tel:(+001)256689">(+91) 8789701805</a></span></li>
+                                    <li><i className="fas fa-envelope"></i><span><b>Email : </b> <a href="mailto:motal@gmail.com">info@aiecpl.in</a></span></li>
+                                    <li><i className="fas fa-map-marker-alt"></i><span><b>Address : </b>Sinha Library Road, Patna 800001, Bihar India</span></li>
                                 </ul>
                             </div>
                         </div>

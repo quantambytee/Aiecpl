@@ -35,7 +35,7 @@ function App() {
       {isLoading ? <PreLoader /> :
         <div>
           <Helmet>
-            <title>AIECPL|Study in Germany</title>
+            <title>AIECPL|Study in Abroad</title>
             <link rel="shortcut icon" href="favicon.ico"></link>
           </Helmet>
           <Layout />
