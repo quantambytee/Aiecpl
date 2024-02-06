@@ -4,3 +4,96 @@
 .apply-btn .apply-btn-theme{
     background-color: #F43336;
 }
+.header-logo{
+    background-color: #fff !important;
+}
+.headerTop{
+    height: 114px;;
+}
+.custom-modal .modal-content {
+    border-radius: 15px;
+    overflow: hidden;
+  }
+  
+  .modal-header-custom {
+    background-color: #f8f9fa; /* Light grey background */
+    border-bottom: 1px solid #dee2e6; /* Light grey border */
+  }
+  
+  .modal-body-custom {
+    padding: 20px;
+  }
+  
+  .modal-footer-custom {
+    border-top: 1px solid #dee2e6; /* Light grey border */
+    background-color: #f8f9fa; /* Light grey background */
+  }
+  
+  .modal-close-btn, .modal-submit-btn {
+    padding: 5px 15px;
+    font-size: 16px;
+  }
+  
+  .modal-submit-btn {
+    background-color: #007bff; /* Bootstrap primary color */
+    color: #ffffff;
+  }
+  
+  .modal-close-btn {
+    color: #6c757d; /* Bootstrap secondary text color */
+  }
+  
+  .custom-modal .modal-content {
+    width: 800px; /* Or your preferred width */
+    margin: auto;
+    border-radius: 15px;
+    overflow: hidden;
+  }
+  
+  .modal-header-custom, .modal-footer-custom {
+    background-color: #f8f9fa;
+    border-color: #dee2e6;
+  }
+  
+  .modal-body-custom {
+    padding: 20px;
+  }
+  
+  .modal-close-btn, .modal-submit-btn {
+    padding: 5px 15px;
+    font-size: 16px;
+  }
+  
+  .modal-submit-btn {
+    background-color: #007bff;
+    color: #ffffff;
+  }
+  
+  .modal-close-btn {
+    color: #6c757d;
+  }
+  
+  /* Styling for Form Labels */
+  .modal-body-custom .form-label {
+    color: #6c757d;
+    font-size: 0.9rem;
+  }
+  
+  /* Customizing Input Boxes */
+  .modal-body-custom .form-control {
+    padding: 0.375rem 0.75rem;
+    font-size: 0.875rem;
+    height: calc(1em + 1.75rem + 3px);
+  }
+  .modal-body-custom {
+    padding: 20px;
+    max-height: 700px; /* Set a maximum height for the modal body */
+    overflow-y: auto; /* Enable vertical scrolling */
+  }
+  
+  /* Add other custom styles if needed */
+  
+  
+    
+  /* Additional custom styles for form elements can go here */
+  

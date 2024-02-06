@@ -5,7 +5,7 @@ import { HashLink as Link } from 'react-router-hash-link';
 import MobileHeader from './MobileHeader';
 import NavigationMenu from './NavigationMenu';
 import MeetBtn from './MeetBtn';
-import logo1 from "../../assets/logo/biggerLogo.png"
+import logo1 from "../../assets/logo/bigLogo.png"
 
 const HeaderMenuV1 = () => {
 
@@ -49,11 +49,11 @@ const HeaderMenuV1 = () => {
                         </div>
                     </div>
                     <div className="header-upper bg-white">
-                        <div className="container-fluid clearfix">
+                        <div className="container-fluid clearfix headerTop">
                             <div className="header-inner d-flex align-items-center">
-                                <div className="logo-outer bg-blue py-30 px-85 logo-main">
+                                <div className="logo-outer bg-blue py-30 px-85 logo-main header-logo">
                                     <div className="logo">
-                                        <Link to="/#"><img src={logo} alt="Logo" title="Logo" /></Link>
+                                        <Link to="/#"><img src={logo1} alt="Logo" title="Logo" /></Link>
                                     </div>
                                 </div>
                                 <div className="nav-outer clearfix d-flex align-items-center">
