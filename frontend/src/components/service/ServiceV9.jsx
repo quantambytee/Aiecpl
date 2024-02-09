@@ -2,7 +2,7 @@ import React from 'react';
 import ServiceV9Data from '../../jsonData/ServiceV9Data.json'
 import SingleServiceV9 from './SingleServiceV9';
 import { Swiper, SwiperSlide } from 'swiper/react';
-import { Keyboard, Pagination } from 'swiper/modules';
+import { Keyboard, Pagination,Autoplay } from 'swiper/modules';
 
 const ServiceV9 = () => {
     return (
@@ -19,13 +19,17 @@ const ServiceV9 = () => {
                     </div>
                     <div className="service-slider-wrap">
                         <Swiper
-                            modules={[Keyboard, Pagination]}
+                            modules={[Keyboard, Pagination,Autoplay]}
                             pagination={{ clickable: true }}
                             spaceBetween={10}
 
                             loop={true}
                             keyboard={{
                                 enabled: true,
+                            }}
+                            autoplay={{
+                                delay: 2500, // Adjust the delay as needed
+                                disableOnInteraction: false, // Continue autoplay after interaction
                             }}
                             breakpoints={{
                                 320: {

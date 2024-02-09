@@ -34,21 +34,23 @@ const ContactV1Form = () => {
                     <div className="col-sm-6">
                         <div className="form-group">
                             <label htmlFor="service">Service Required</label>
-                            <select id="service" name="service">
+                            {/* <select id="service" name="service">
                                 <option value="default" defaultValue>Service</option>
                                 <option value="about">About</option>
                                 <option value="contact">Contact</option>
                                 <option value="team">Team</option>
-                            </select>
+                            </select> */}
+                            <input type="text" id="service" name="service" className="form-control no-arrows" placeholder="Phone Number" autoComplete='off' />
                         </div>
                     </div>
                     <div className="col-sm-12">
                         <div className="form-group">
-                            <textarea name="comments" id="comments" className="form-control" rows="4" placeholder="Let us know what you need." autoComplete='off' required></textarea>
+                        <label htmlFor="service">Query </label>
+                            <textarea name="query" id="query" className="form-control" rows="4" placeholder="Let us know what you need." autoComplete='off' required></textarea>
                         </div>
                     </div>
                     <div className="col-sm-12">
-                        <button type="submit" className="theme-btn">Send Message</button>
+                        <button type="submit" className="theme-btn contact-btn">Contact Us</button>
                     </div>
                 </div>
             </form>

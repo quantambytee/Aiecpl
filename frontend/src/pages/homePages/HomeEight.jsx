@@ -10,7 +10,7 @@ import TestimonialV5 from '../../components/testimonial/TestimonialV5';
 import BlogV5 from '../../components/blog/BlogV5';
 import CallToActionV4 from '../../components/callToAction/CallToActionV4';
 import FooterV8 from '../../components/footer/FooterV8';
-
+import ContactV1 from '../../components/contact/ContactV1';
 const HomeEight = () => {
     return (
         <>
@@ -19,11 +19,12 @@ const HomeEight = () => {
             <FeatureAbout />
             <ServiceV9 />
             <CounterV5 />
-            <PrivacyWrapper />
+            {/* <PrivacyWrapper /> */}
             <ProjectV1 />
             <TestimonialV5 />
-            <BlogV5 />
-            <CallToActionV4 />
+            {/* <BlogV5 /> */}
+            <ContactV1/>
+            {/* <CallToActionV4 /> */}
             <FooterV8 />
             
         </>

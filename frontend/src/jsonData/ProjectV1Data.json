@@ -1,30 +1,30 @@
 [
     {
         "id": 1,
-        "thumb": "project1.jpg",
-        "title": "Cyber Security Advice",
-        "category": "Digital security",
+        "thumb": "counselling.jpg",
+        "title": "Counselling",
+        "category": "Certified and experience counsellors of Aiecpl will make the study abroad journey hassel-free",
         "delay": 200
     },
     {
         "id": 2,
-        "thumb": "project2.jpg",
-        "title": "Cyber Security Advice",
-        "category": "Digital security",
+        "thumb": "accomodation.jpg",
+        "title": "Accomodation",
+        "category": "Stay in the best accomodation through our trusted parteners across various destination",
         "delay": 400
     },
     {
         "id": 3,
-        "thumb": "project3.jpg",
-        "title": "Cyber Security Advice",
-        "category": "Digital security",
+        "thumb": "globalStudies.jpg",
+        "title": "Global Studies",
+        "category": "Exploring diverse cultures, economies, and politics to understand global interconnectivity and relations",
         "delay": 600
     },
     {
         "id": 4,
-        "thumb": "project4.jpg",
-        "title": "Cyber Security Advice",
-        "category": "Digital security",
+        "thumb": "visaAssistance.jpg",
+        "title": "Visa Assistance",
+        "category": "Complete visa assistance is given by our counsellor right from processing to documentation",
         "delay": 800
     }
 ]

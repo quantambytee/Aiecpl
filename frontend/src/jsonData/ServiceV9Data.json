@@ -1,66 +1,59 @@
 [
     {
         "id": 1,
-        "icon": "icon1.png",
-        "title": "Threat Intelligence",
-        "text": "Pulvinar ornare in a sem. Quisque vulputate convallis nulla. In efficitur",
+        "icon": "counselli.png",
+        "title": "An All-Inclusive Counselling",
+        "text": "Navigate the complexities of studying abroad with our comprehensive counseling services tailored to your educational journey.",
         "icon2": "fas fa-angle-double-right",
         "delay": 200
     },
     {
         "id": 2,
         "icon": "icon2.png",
-        "title": "Server Security",
-        "text": "Pulvinar ornare in a sem. Quisque vulputate convallis nulla. In efficitur",
+        "title": "Application Processing",
+        "text": "Streamline your college applications with our expert processing services, ensuring accuracy and a seamless admissions experience.",
         "icon2": "fas fa-angle-double-right",
         "delay": 400
     },
     {
         "id": 3,
-        "icon": "icon3.png",
-        "title": "Database Security",
-        "text": "Pulvinar ornare in a sem. Quisque vulputate convallis nulla. In efficitur",
+        "icon": "courseSelection.png",
+        "title": "Course Selection Advice",
+        "text": "Personalized guidance to help you select courses that align with your academic goals and career aspirations.",
         "icon2": "fas fa-angle-double-right",
         "delay": 600
     },
     {
         "id": 4,
-        "icon": "icon4.png",
-        "title": "Threat Intelligence",
-        "text": "Pulvinar ornare in a sem. Quisque vulputate convallis nulla. In efficitur",
+        "icon": "languageC.png",
+        "title": "Language Coaching",
+        "text": "Enhance your language proficiency with our specialized coaching, designed to prepare you for global communication.",
         "icon2": "fas fa-angle-double-right",
         "delay": 800
     },
     {
         "id": 5,
         "icon": "icon2.png",
-        "title": "Server Security",
-        "text": "Pulvinar ornare in a sem. Quisque vulputate convallis nulla. In efficitur",
+        "title": "Pre-departure Guidance",
+        "text": "Get detailed, step-by-step guidance to ensure you're fully prepared for your educational adventure abroad.",
         "icon2": "fas fa-angle-double-right",
         "delay": 1000
     },
     {
         "id": 6,
-        "icon": "icon3.png",
-        "title": "Database Security",
-        "text": "Pulvinar ornare in a sem. Quisque vulputate convallis nulla. In efficitur",
+        "icon": "studentEdu.png",
+        "title": "Student Education Loan",
+        "text": "Expert advice on securing educational loans, simplifying the process to finance your international studies.",
         "icon2": "fas fa-angle-double-right",
         "delay": 1200
     },
     {
         "id": 7,
-        "icon": "icon1.png",
-        "title": "Threat Intelligence",
-        "text": "Pulvinar ornare in a sem. Quisque vulputate convallis nulla. In efficitur",
+        "icon": "accomodation.png",
+        "title": "Accomodation",
+        "text": "Assistance in finding safe, comfortable, and convenient accommodation to complement your study abroad experience.",
         "icon2": "fas fa-angle-double-right",
         "delay": 1400
-    },
-    {
-        "id": 8,
-        "icon": "icon2.png",
-        "title": "Server Security",
-        "text": "Pulvinar ornare in a sem. Quisque vulputate convallis nulla. In efficitur",
-        "icon2": "fas fa-angle-double-right",
-        "delay": 1600
     }
+   
 ]

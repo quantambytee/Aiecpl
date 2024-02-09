@@ -10,8 +10,8 @@ const ProjectV1 = () => {
                     <div className="row">
                         <div className="col-xl-5 col-lg-6 col-md-8">
                             <div className="section-title text-center mb-70">
-                                <span className="sub-title">Our Project</span>
-                                <h2>Our Latest Digital Security Projects Solution</h2>
+                                <span className="sub-title">Our Vision</span>
+                                <h2>We are there with you at every step</h2>
                             </div>
                         </div>
                     </div>

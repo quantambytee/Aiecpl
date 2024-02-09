@@ -24,7 +24,7 @@ const NavigationMenu = () => {
                          
                         </ul>
                     </li>
-                    <li className="dropdown"><Link to="#">pages</Link>
+                    <li className="dropdown"><Link to="#">Explore Your Study Destinations</Link>
                         <ul>
                             {/* <li><Link to="/counter#">Counter Page</Link></li>
                             <li className="dropdown"><Link to="#">Shop Page</Link>
@@ -60,12 +60,12 @@ const NavigationMenu = () => {
                             <li><Link to="/404#">404 Error</Link></li> */}
                         </ul>
                     </li>
-                    <li className="dropdown"><Link to="#">blog</Link>
+                    {/* <li className="dropdown"><Link to="#">blog</Link>
                         <ul>
                             <li><Link to="/blog#">Blog Standard</Link></li>
                             <li><Link to="/blog-details#">Blog Details</Link></li>
                         </ul>
-                    </li>
+                    </li> */}
                     <li><Link to="/contact#">Contact</Link></li>
                 </ul>
             </div>

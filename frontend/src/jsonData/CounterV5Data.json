@@ -2,25 +2,25 @@
     {
         "id": 1,
         "start": 0,
-        "end": 45,
+        "end": 1,
         "icon": "icon1.png",
-        "title": "Encrypted Service",
+        "title": "Student Service",
         "delay": 300
     },
     {
         "id": 2,
         "start": 0,
-        "end": 25,
+        "end": 2,
         "icon": "icon2.png",
-        "title": "Global Projects",
+        "title": "Global Students",
         "delay": 600
     },
     {
         "id": 3,
         "start": 0,
-        "end": 220,
+        "end": 3,
         "icon": "icon3.png",
-        "title": "Secure Data",
+        "title": "Counselling Agent",
         "delay": 900
     }
 ]

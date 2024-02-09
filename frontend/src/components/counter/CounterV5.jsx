@@ -5,7 +5,7 @@ import SingleCounterV5 from './SingleCounterV5';
 const CounterV5 = () => {
     return (
         <>
-            <div className="cournter-section-five home-eight bg-black text-white pt-95 rpt-75 pb-65 rpb-45">
+            <div className="cournter-section-five home-eight bg-black text-white pt-95 rpt-75 pb-65 rpb-45 container-counter">
                 <div className="container">
                     <div className="row">
                         {CounterV5Data.map(counter =>

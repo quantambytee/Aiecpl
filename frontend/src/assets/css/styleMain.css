@@ -90,7 +90,27 @@
     max-height: 700px; /* Set a maximum height for the modal body */
     overflow-y: auto; /* Enable vertical scrolling */
   }
-  
+  .about-section{
+    width: 100% !important;
+  }
+  .srvicePara{
+    height: 144px;
+  }
+  .service-div{
+    height: 45vh;
+  }
+  .getInTouch-Container{
+    padding-top: 192px;
+  }
+  .getInTouch{
+    background-image: linear-gradient(to top, #5d6886, transparent);
+  }
+  .contact-btn{
+    background: #164aa99c;
+  }
+  .container-counter{
+    padding-bottom: 370px !important;
+  }
   /* Add other custom styles if needed */
   
   
