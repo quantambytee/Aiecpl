@@ -100,7 +100,7 @@
     height: 45vh;
   }
   .getInTouch-Container{
-    padding-top: 192px;
+    padding-top:  265px;
   }
   .getInTouch{
     background-image: linear-gradient(to top, #5d6886, transparent);
@@ -110,6 +110,9 @@
   }
   .container-counter{
     padding-bottom: 370px !important;
+  }
+  .footer-col{
+    width: 33%;
   }
   /* Add other custom styles if needed */
   

@@ -7,7 +7,7 @@ import { Keyboard, Pagination,Autoplay } from 'swiper/modules';
 const ServiceV9 = () => {
     return (
         <>
-            <section className="services-eight home-eight rel z-1 pt-115 rpt-95 pb-120 rpb-100">
+            <section id="service" className="services-eight home-eight rel z-1 pt-115 rpt-95 pb-120 rpb-100">
                 <div className="container">
                     <div className="row">
                         <div className="col-12">

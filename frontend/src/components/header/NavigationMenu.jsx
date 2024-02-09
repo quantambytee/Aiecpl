@@ -7,57 +7,37 @@ const NavigationMenu = () => {
             <div className="navbar-collapse collapse clearfix">
                 <ul className="navigation clearfix">
                     <li className="current dropdown"><Link to="/#">Home</Link>
-                        <ul>
+                        {/* <ul>
                             <li><Link to="/#">Home One</Link></li>
                             
-                        </ul>
+                        </ul> */}
                     </li>
-                    <li className="dropdown"><Link to="#">About Us</Link>
-                        <ul>
+                    <li className="dropdown"><Link to="#aboutUs">About Us</Link>
+                        {/* <ul>
                             <li><Link to="/about#">About One</Link></li>
                             
-                        </ul>
+                        </ul> */}
                     </li>
-                    <li className="dropdown"><Link to="#">service</Link>
-                        <ul>
+                    <li className="dropdown"><Link to="#service">service</Link>
+                        {/* <ul>
                             <li><Link to="/services#">Services One</Link></li>
                          
-                        </ul>
+                        </ul> */}
                     </li>
                     <li className="dropdown"><Link to="#">Explore Your Study Destinations</Link>
                         <ul>
-                            {/* <li><Link to="/counter#">Counter Page</Link></li>
-                            <li className="dropdown"><Link to="#">Shop Page</Link>
-                                <ul>
-                                    <li><Link to="/shop#">Shop Page</Link></li>
-                                    <li><Link to="/shop-details#">Shop Details</Link></li>
-                                </ul>
-                            </li>
-                            <li className="dropdown"><Link to="#">Portfolio</Link>
-                                <ul>
-                                    <li><Link to="/portfolio#">Portfolio</Link></li>
-                                   
-                                </ul>
-                            </li>
-                            <li className="dropdown"><Link to="#">Team Member</Link>
-                                <ul>
-                                    <li><Link to="/team#">Team One</Link></li>
-                                    
-                                </ul>
-                            </li>
-                            <li className="dropdown"><Link to="#">Pricing page</Link>
-                                <ul>
-                                    <li><Link to="/pricing#">Pricing One</Link></li>
-                                    
-                                </ul>
-                            </li>
-                            <li className="dropdown"><Link to="#">Testimonials page</Link>
-                                <ul>
-                                    <li><Link to="/testimonial#">Testimonials One</Link></li>
-                                    
-                                </ul>
-                            </li>
-                            <li><Link to="/404#">404 Error</Link></li> */}
+                            <li><Link to="/service-details#">Study In Australia</Link></li>
+                            <li><Link to="/blog#">Study In Italy</Link></li>
+                            <li><Link to="/blog-details#">Study In Germany</Link></li>
+                            <li><Link to="/blog-details#">Study In Japan</Link></li>
+                            <li><Link to="/blog-details#">Study In New Zealand</Link></li>
+                            <li><Link to="/blog-details#">Study In Bulgaria</Link></li>
+                            <li><Link to="/blog-details#">Study In Bangaladesh</Link></li>
+                            <li><Link to="/blog-details#">Study In Nepal</Link></li>
+                            <li><Link to="/blog-details#">Study In Kazakhstan</Link></li>
+                            <li><Link to="/blog-details#">Study In Belgium</Link></li>
+                            <li><Link to="/blog-details#">Study In Poland</Link></li>
+                            {/* <li><Link to="/404#">404 Error</Link></li> */}
                         </ul>
                     </li>
                     {/* <li className="dropdown"><Link to="#">blog</Link>
@@ -66,7 +46,7 @@ const NavigationMenu = () => {
                             <li><Link to="/blog-details#">Blog Details</Link></li>
                         </ul>
                     </li> */}
-                    <li><Link to="/contact#">Contact</Link></li>
+                    <li><Link to="#contact-us">Contact</Link></li>
                 </ul>
             </div>
         </>

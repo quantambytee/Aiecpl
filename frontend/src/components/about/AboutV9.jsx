@@ -9,7 +9,7 @@ import about2 from "../../assets/about/about2.jpeg"
 const AboutV9 = () => {
     return (
         <>
-            <section className="about-section-eight pt-70 rpt-35 pb-120 rpb-100">
+            <section id="aboutUs" className="about-section-eight pt-70 rpt-35 pb-120 rpb-100">
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-md-6">

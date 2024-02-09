@@ -18,8 +18,8 @@ const HomeEight = () => {
             <BannerV8 />
             <FeatureAbout />
             <ServiceV9 />
-            <CounterV5 />
-            {/* <PrivacyWrapper /> */}
+            {/* <CounterV5 /> */}
+            <PrivacyWrapper />
             <ProjectV1 />
             <TestimonialV5 />
             {/* <BlogV5 /> */}

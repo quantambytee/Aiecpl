@@ -7,7 +7,7 @@ import contactUs from "../../assets/images/contact_us.jpg"
 const ContactV1 = () => {
     return (
         <>
-            <section className="contact-section bg-lighter pb-60 rpb-40">
+            <section id='contact-us' className="contact-section bg-lighter pb-60 rpb-40">
                 <div className="container getInTouch-Container">
                     <div className="contact-section-inner p-50 br-5 bg-white">
                         <div className="row">
