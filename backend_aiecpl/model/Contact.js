@@ -8,7 +8,7 @@ const contactSchema=new mongoose.Schema({
         type:String,
 
     },
-    phone:{
+    number:{
         type:Number
     },
     query:{

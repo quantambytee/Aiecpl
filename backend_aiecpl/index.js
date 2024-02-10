@@ -23,8 +23,8 @@ const connectDB=require("./db/connect")
 // routes
 const contactRouter=require("./routes/ContactRoute")
 const applyFormRouter=require("./routes/applyFormRoutes")
-app.use("/",contactRouter)
-app.use("/",applyFormRouter)
+app.use("/api",contactRouter)
+app.use("/api",applyFormRouter)
 
 const start=()=>{
     connectDB(process.env.MONGO_URI)
