@@ -1,11 +1,12 @@
 import React, { useState } from 'react';
 import { toast } from 'react-toastify';
 import axios from 'axios';
+import swal from 'sweetalert';
 
 const BASE_URL = import.meta.env.VITE_API_BASE_URL;
 
 const ContactV1Form = () => {
-    console.log('API Base URL:', import.meta.env.VITE_API_BASE_URL);
+    
     const [formData, setFormData] = useState({
         name: '',
         email: '',
@@ -21,20 +22,40 @@ const ContactV1Form = () => {
           [name]: value,
         }));
       };
-    const handleMessage = (event) => {
-        event.preventDefault()
-        event.target.reset()
-        toast.success("Thanks for Your Message")
-    }
+ 
     const handleSubmit = async (e) => {
         e.preventDefault(); // Prevent default form submission behavior
     
         try {
           const response = await axios.post(`${BASE_URL}/create-contact`, formData);
           console.log('Form submitted successfully:', response.data);
+          if(response.data){
+            swal({
+                title: "Successfully Submitted!",
+                icon: "success",
+                buttons: {
+                    confirm: true,
+                  },
+              });
+             setFormData({
+                name: '',
+                email: '',
+                number: '',
+                service: '',
+                query: '',
+              })
+          }
+         
           // Handle success here (e.g., showing a success message)
         } catch (error) {
           console.error('Form submission error:', error);
+          swal({
+            title: `'Form submission error:', ${error}`,
+            icon: "error",
+            buttons: {
+                confirm: true,
+              },
+          });
           // Handle errors here (e.g., showing an error message)
         }
       };
@@ -70,7 +91,7 @@ const ContactV1Form = () => {
                                 <option value="contact">Contact</option>
                                 <option value="team">Team</option>
                             </select> */}
-                            <input type="text" id="service" name="service" value={formData.service} onChange={handleChange} className="form-control no-arrows" placeholder="Phone Number" autoComplete='off' />
+                            <input type="text" id="service" name="service" value={formData.service} onChange={handleChange} className="form-control no-arrows" placeholder="service Required" autoComplete='off' />
                         </div>
                     </div>
                     <div className="col-sm-12">
