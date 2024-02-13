@@ -2,7 +2,7 @@ import React from 'react';
 import { Fade } from 'react-reveal';
 import { HashLink as Link } from 'react-router-hash-link';
 import protectsThumb from '/images/protects/ready.jpg'
-
+import university1 from "../../assets/images/product/university1.jpg"
 const PrivacyV2 = () => {
     return (
         <>
@@ -14,23 +14,23 @@ const PrivacyV2 = () => {
                                 <div className="ready-content">
                                     <div className="section-title mb-30">
                                         <span className="sub-title">We are ready</span>
-                                        <h2>Protecting your privacy is Our priority</h2>
+                                        <h2 className='product2-heading'>Studying Abroad Simplified:</h2>
                                     </div>
-                                    <p>Praesent eget ullamcorper elit, vel volutpat tellus. Aliquam auctor, neque quis blandit vestibulum</p>
+                                    <p>International Education in your Budget</p>
                                     <ul className="list-style-three pt-15 pb-30">
-                                        <li>Use strong passwords</li>
-                                        <li>Use security software</li>
-                                        <li>Monitor for intrusion</li>
-                                        <li>Raise awareness</li>
+                                        <li>Save up to 50 lakh INR on International Degrees</li>
+                                        <li>Fast-track Your Career Abroad</li>
+                                        <li>End-to-end On-shore Support</li>
+                                        <li>Expert Career Services</li>
                                     </ul>
-                                    <Link to="/about#" className="theme-btn style-ten hover-two">Discover More <i className="far fa-paper-plane"></i></Link>
+                                    {/* <Link to="/about#" className="theme-btn style-ten hover-two">Discover More <i className="far fa-paper-plane"></i></Link> */}
                                 </div>
                             </Fade>
                         </div>
                         <div className="col-lg-6">
                             <Fade right delay={300}>
                                 <div className="ready-image">
-                                    <img src={protectsThumb} alt="Ready" />
+                                    <img src={university1} alt="Ready" />
                                 </div>
                             </Fade>
                         </div>

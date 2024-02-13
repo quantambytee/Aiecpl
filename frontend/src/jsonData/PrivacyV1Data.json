@@ -1,20 +1,26 @@
 [
     {
         "id": 1,
-        "icon": "icon1.png",
-        "title": "Product Consultation",
-        "text": "Penatibus et magnis dis parturient montes, nascetur ridiculus"
+        "icon": "globalEdu.png",
+        "title": "Navigating Global Education",
+        "text": "Most experienced overseas education consultant in India"
     },
     {
         "id": 2,
-        "icon": "icon2.png",
-        "title": "Security Consultation",
-        "text": "Penatibus et magnis dis parturient montes, nascetur ridiculus"
+        "icon": "counselor.png",
+        "title": "Counselor Excellence",
+        "text": "Highest number of certified counsellors"
     },
     {
         "id": 3,
-        "icon": "icon3.png",
-        "title": "Operational Security",
-        "text": "Penatibus et magnis dis parturient montes, nascetur ridiculus"
+        "icon": "loan.png",
+        "title": "Loan Application Simplified",
+        "text": "Smooth and hassle-free loan application"
+    }, 
+    {
+        "id": 4,
+        "icon": "visa.png",
+        "title": "Visa Success Guaranteed",
+        "text": "100% Visa Success Rate"
     }
 ]

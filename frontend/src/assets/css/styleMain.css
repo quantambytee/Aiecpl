@@ -114,6 +114,16 @@
   .footer-col{
     width: 33%;
   }
+  .product2-heading{
+   width: 33vw;
+  }
+  .service-top-section{
+    background-color: #F8F8F8;;
+  }
+  .contact-image-number.style-two:before {
+    opacity: 0.9;
+    background-color: #4e79c8e0 !important;
+}
   /* Add other custom styles if needed */
   
   

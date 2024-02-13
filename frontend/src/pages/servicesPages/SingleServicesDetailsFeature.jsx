@@ -8,9 +8,9 @@ const SingleServicesDetailsFeature = ({ feature }) => {
         <>
             <Fade delay={delay}>
                 <div className="service-normal style-two">
-                    <div className="icon">
+                    {/* <div className="icon">
                         <i className={icon}></i>
-                    </div>
+                    </div> */}
                     <h6>{title}</h6>
                     <p>{text}</p>
                 </div>

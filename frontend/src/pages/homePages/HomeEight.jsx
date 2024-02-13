@@ -21,7 +21,7 @@ const HomeEight = () => {
             {/* <CounterV5 /> */}
             <PrivacyWrapper />
             <ProjectV1 />
-            <TestimonialV5 />
+            {/* <TestimonialV5 /> */}
             {/* <BlogV5 /> */}
             <ContactV1/>
             {/* <CallToActionV4 /> */}

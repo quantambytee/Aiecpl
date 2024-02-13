@@ -7,13 +7,13 @@ import { Keyboard, Pagination,Autoplay } from 'swiper/modules';
 const ServiceV9 = () => {
     return (
         <>
-            <section id="service" className="services-eight home-eight rel z-1 pt-115 rpt-95 pb-120 rpb-100">
+            <section id="Our-service" className="services-eight home-eight rel z-1 pt-115 rpt-95 pb-120 rpb-100 service-top-section">
                 <div className="container">
                     <div className="row">
                         <div className="col-12">
                             <div className="section-title text-center mb-65">
                                 <span className="sub-title">Our Services</span>
-                                <h2>We Provide All Kind Advanced Security Services</h2>
+                                <h2>We Provide All Kind Advanced Services</h2>
                             </div>
                         </div>
                     </div>

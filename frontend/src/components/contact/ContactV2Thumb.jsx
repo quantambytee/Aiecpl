@@ -5,7 +5,7 @@ const ContactV2Thumb = () => {
     return (
         <>
             <Fade className="fadeInRight" delay={300}>
-                <div className="contact-image-number style-two bgs-cover overlay" style={{ backgroundImage: "url(/images/contact/home-two.jpg)" }}>
+                <div className="contact-image-number style-two bgs-cover overlay" >
                     <div className="contact-informations text-white">
                         <h3>Dont hesitate to contact us</h3>
                         <ul className="contact-info">
@@ -13,14 +13,14 @@ const ContactV2Thumb = () => {
                                 <i className="fas fa-phone-alt"></i>
                                 <div className="content">
                                     <span>Call Us</span>
-                                    <h5><a href="tel:+012-345-6789">+012-345-6789</a></h5>
+                                    <h5><a href="tel:+91-8789701805">+91-8789701805</a></h5>
                                 </div>
                             </li>
                             <li>
                                 <i className="fas fa-envelope"></i>
                                 <div className="content">
                                     <span>Write to Us</span>
-                                    <h5><a href="mailto:info@example.com">info@example.com</a></h5>
+                                    <h5><a href="mailto:info@aiecpl.in">info@aiecpl.in</a></h5>
                                 </div>
                             </li>
                             <li>
