@@ -27,16 +27,16 @@ const NavigationMenu = () => {
                     <li className="dropdown"><Link to="#">Explore Your Study Destinations</Link>
                         <ul>
                             <li><Link to="/service-details#">Study In Australia</Link></li>
-                            <li><Link to="/blog#">Study In Italy</Link></li>
-                            <li><Link to="/blog-details#">Study In Germany</Link></li>
-                            <li><Link to="/blog-details#">Study In Japan</Link></li>
-                            <li><Link to="/blog-details#">Study In New Zealand</Link></li>
-                            <li><Link to="/blog-details#">Study In Bulgaria</Link></li>
-                            <li><Link to="/blog-details#">Study In Bangaladesh</Link></li>
-                            <li><Link to="/blog-details#">Study In Nepal</Link></li>
-                            <li><Link to="/blog-details#">Study In Kazakhstan</Link></li>
-                            <li><Link to="/blog-details#">Study In Belgium</Link></li>
-                            <li><Link to="/blog-details#">Study In Poland</Link></li>
+                            <li><Link to="/service-details#">Study In Italy</Link></li>
+                            <li><Link to="/service-details#">Study In Germany</Link></li>
+                            <li><Link to="/service-details#">Study In Japan</Link></li>
+                            <li><Link to="/service-details#">Study In New Zealand</Link></li>
+                            <li><Link to="/service-details#">Study In Bulgaria</Link></li>
+                            <li><Link to="/service-details#">Study In Bangaladesh</Link></li>
+                            <li><Link to="/service-details#">Study In Nepal</Link></li>
+                            <li><Link to="/service-details#">Study In Kazakhstan</Link></li>
+                            <li><Link to="/service-details#">Study In Belgium</Link></li>
+                            <li><Link to="/service-details#">Study In Poland</Link></li>
                             {/* <li><Link to="/404#">404 Error</Link></li> */}
                         </ul>
                     </li>

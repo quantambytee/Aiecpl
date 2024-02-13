@@ -40,8 +40,8 @@ const SingleBannerV8 = ({ banner }) => {
                             </Fade>
                             <Fade bottom delay={800}>
                                 <div className="slider-btns">
-                                    <Link to="/about#" className="theme-btn style-ten">{btn1Text}<i className={btnIcon}></i></Link>
-                                    <Link to="/about#" className="theme-btn style-eleven">{btn2Text} <i className={btnIcon}></i></Link>
+                                    <Link to="#aboutUs" className="theme-btn style-ten">{btn1Text}<i className={btnIcon}></i></Link>
+                                    <Link to="#contact-us" className="theme-btn style-eleven">{btn2Text} <i className={btnIcon}></i></Link>
                                 </div>
                             </Fade>
                         </div>
