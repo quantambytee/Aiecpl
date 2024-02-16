@@ -7,10 +7,11 @@ const port=process.env.PORT || 5000
 
 // CORS options
 const corsOptions = {
-    origin: 'http://localhost:5173', // Allow only this origin to access the resources
-    methods: 'GET,POST,PUT,PATCH,DELETE', // Allow only these methods
-    allowedHeaders: 'Content-Type,Authorization', // Allow only these headers
-    optionsSuccessStatus: 200 // Some legacy browsers (IE11, various SmartTVs) choke on 204
+  origin: '*', // Allows requests from any origin
+    // origin: 'http://localhost:5173', // Allow only this origin to access the resources
+    // methods: 'GET,POST,PUT,PATCH,DELETE', // Allow only these methods
+    // allowedHeaders: 'Content-Type,Authorization', // Allow only these headers
+    // optionsSuccessStatus: 200 // Some legacy browsers (IE11, various SmartTVs) choke on 204
   };
   
   // Enable CORS with options
