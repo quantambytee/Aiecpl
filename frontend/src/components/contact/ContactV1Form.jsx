@@ -27,7 +27,12 @@ const ContactV1Form = () => {
         e.preventDefault(); // Prevent default form submission behavior
     
         try {
-          const response = await axios.post(`${BASE_URL}/create-contact`, formData);
+          const response = await axios.post(`${BASE_URL}/create-contact`, formData,{
+            headers: {
+                'Content-Type': 'application/json',
+                // Add more headers here if needed
+            }
+          });
           console.log('Form submitted successfully:', response.data);
           if(response.data){
             swal({
