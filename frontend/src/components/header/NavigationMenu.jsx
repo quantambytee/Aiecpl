@@ -47,6 +47,7 @@ const NavigationMenu = () => {
                         </ul>
                     </li> */}
                     <li><Link to="#contact-us">Contact</Link></li>
+                    <li><Link to="/college-finder#">College Finder</Link></li>
                 </ul>
             </div>
         </>

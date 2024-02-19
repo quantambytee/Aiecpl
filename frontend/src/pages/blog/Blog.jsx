@@ -1,16 +1,18 @@
 import React from 'react';
 import InnerHeader from '../../components/header/InnerHeader';
+import HeaderMenuV1 from '../../components/header/HeaderMenuV1';
 import BreadCums from '../../components/breadCums/BreadCums';
 import BlogPageContent from './BlogPageContent';
-import FooterV2 from '../../components/footer/FooterV2';
+import FooterV8 from '../../components/footer/FooterV8';
 
 const Blog = () => {
     return (
         <>
-            <InnerHeader />
+            {/* <InnerHeader /> */}
+           <HeaderMenuV1/>
             <BreadCums pageTitle="Blog Page" pageLink="blog" />
             <BlogPageContent />
-            <FooterV2 />
+            <FooterV8 />
         </>
     );
 };
