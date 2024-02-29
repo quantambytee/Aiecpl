@@ -27,7 +27,7 @@ const NavigationMenu = () => {
                     <li className="dropdown"><Link to="#">Explore Your Study Destinations</Link>
                         <ul>
                             <li><Link to="/service-details#">Study In Australia</Link></li>
-                            <li><Link to="/service-details#">Study In Italy</Link></li>
+                            <li><Link to="/italy-details#">Study In Italy</Link></li>
                             <li><Link to="/service-details#">Study In Germany</Link></li>
                             <li><Link to="/service-details#">Study In Japan</Link></li>
                             <li><Link to="/service-details#">Study In New Zealand</Link></li>
@@ -47,7 +47,7 @@ const NavigationMenu = () => {
                         </ul>
                     </li> */}
                     <li><Link to="#contact-us">Contact</Link></li>
-                    <li><Link to="/college-finder#">College Finder</Link></li>
+                    {/* <li><Link to="/college-finder#">College Finder</Link></li> */}
                 </ul>
             </div>
         </>
