@@ -10,8 +10,8 @@ const ErrorContent = () => {
                     <div className="error-content">
                         <img src={errorThumb} alt="404 Error" />
                         <h2>Oops! page not found.</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. </p>
-                        <Link to="/#" className="theme-btn mt-30">go back</Link>
+                        {/* <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. </p> */}
+                        <Link to="/#" className="theme-btn mt-30 menu-btn apply-btn">go back</Link>
                     </div>
                 </div>
             </section>

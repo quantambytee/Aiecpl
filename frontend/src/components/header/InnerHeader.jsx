@@ -33,8 +33,8 @@ const InnerHeader = () => {
                             <div className="header-top">
                                 <div className="top-left">
                                     <ul>
-                                        <li>Call Us: <a href="tel:548978478">548978478</a></li>
-                                        <li>Email us: <a href="mailto:demo@example.com">demo@example.com</a></li>
+                                        <li>Call Us: <a href="tel:8789701805">+91 8789701805</a></li>
+                                        <li>Email us: <a href="mailto:info@aiecpl.in">info@aiecpl.in</a></li>
                                     </ul>
                                 </div>
                                 <div className="top-right">
@@ -57,9 +57,9 @@ const InnerHeader = () => {
                                     <nav className="main-menu navbar-expand-lg">
                                         <NavigationMenu />
                                     </nav>
-                                    <div className="menu-btn">
+                                    {/* <div className="menu-btn">
                                         <Link to="/contact#" className="theme-btn">meet with us</Link>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                         </div>
