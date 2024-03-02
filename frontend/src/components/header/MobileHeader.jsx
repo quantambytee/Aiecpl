@@ -4,7 +4,7 @@ import Drawer from "./Drawer";
 import { HashLink as Link } from 'react-router-hash-link';
 
 import logo1 from "../../assets/logo/bigLogo.png"
-
+import Logo from "../../assets/logo/Logo_svg.svg"
 const MobileHeader = () => {
 
     const [drawer, setValue] = useToggle(false);
@@ -32,7 +32,7 @@ const MobileHeader = () => {
             <div className={`mobile-header d-block d-lg-none ${isSticky ? 'fixed-header' : ''}`}>
                 <div className="d-flex justify-content-between align-items-center p-2 px-3 h-100">
                     <Link to="/#" className="logo-area">
-                        <img src={logo1} alt="logo" />
+                        <img src={Logo} alt="logo" />
                     </Link>
                     <div className="button-area">
                         <span onClick={setValue.toggle}>

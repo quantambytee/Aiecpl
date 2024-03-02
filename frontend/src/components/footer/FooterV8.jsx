@@ -3,6 +3,8 @@ import footerLogo from '/images/logos/logo-white.png'
 import { HashLink as Link } from 'react-router-hash-link';
 import SocialShare from '../others/SocialShare';
 import logo from "../../assets/logo/bigLogo.png"
+
+import LOGOBig from "../../assets/logo/LogoBig.jpeg"
 const FooterV8 = () => {
     return (
         <>
@@ -12,7 +14,7 @@ const FooterV8 = () => {
                         <div className="col-lg-3 col-sm-6 footer-col">
                             <div className="footer-widget about-widget">
                                 <div className="footer-logo mb-25">
-                                    <Link to="/#"><img src={logo} alt="Logo" /></Link>
+                                    <Link to="/#"><img src={LOGOBig} alt="Logo" /></Link>
                                 </div>
                                 <div className="text">
                                 We consistently deliver quality, professional and ethical service to our clientele, viz, students, government agencies, and education partners. Global Reach will continue to set the benchmark for Overseas Educational assistance and be the market leader.
