@@ -35,7 +35,7 @@ const HeaderMenuV1 = () => {
                         <div className="top-left">
                             <ul>
                                 <li>Call Us: <Link to="tel:548978478">+91 8789701805</Link></li>
-                                <li>Email us: <Link to="mailto:demo@example.com">info@aiecpl.in</Link></li>
+                                <li>Email us: <Link to="mailto:nfo@aiecpl.in">info@aiecpl.in</Link></li>
                                 <li>Our address: Sinha Library Road, Patna 800001, Bihar India </li>
                             </ul>
                         </div>

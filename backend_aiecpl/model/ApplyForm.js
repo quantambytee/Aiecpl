@@ -6,7 +6,7 @@ const userApplySchema = new mongoose.Schema({
     
     enum: ['Male', 'Female', 'Other']
   },
-  dateOfBirth: {
+  dob: {
     type: Date,
     
   },
@@ -22,7 +22,7 @@ const userApplySchema = new mongoose.Schema({
     type: String,
     required: true
   },
-  mobileNumber: {
+  mobile: {
     type: String,
     required: true
   },
@@ -39,7 +39,7 @@ const userApplySchema = new mongoose.Schema({
     required: true,
     enum: ['Secondary School Diploma', 'College Diploma', 'Bachelor Degree', 'Master Degree', 'MBA', 'Others']
   },
-  englishSpeakingLevel: {
+  englishLevel: {
     type: String,
     required: true,
     enum: ['N/A', 'A1-Beginner', 'A2-Elementry', 'B1-Intermediate', 'B2-Upper-Intermediate', 'C1-Advanced', 'C2-Proficent', 'Native']
@@ -48,11 +48,11 @@ const userApplySchema = new mongoose.Schema({
     type: Number,
     required: true
   },
-  annualBudgetForStudies: {
+  annualBudget: {
     type: String, // Consider changing to Number if you're only expecting numerical values
     required: true
   },
-  otherQueries: {
+  message: {
     type: String
   }
 });

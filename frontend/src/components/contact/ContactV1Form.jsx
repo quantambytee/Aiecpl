@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { toast } from 'react-toastify';
 import axios from 'axios';
 import swal from 'sweetalert';
 
@@ -33,7 +32,7 @@ const ContactV1Form = () => {
                 // Add more headers here if needed
             }
           });
-          console.log('Form submitted successfully:', response.data);
+        //   console.log('Form submitted successfully:', response.data);
           if(response.data){
             swal({
                 title: "Successfully Submitted!",
