@@ -1,21 +1,21 @@
 [
     {
         "id": 1,
-        "thumb": "icon1.png",
+        "thumb": "Icon_Partner.svg",
         "title": "Partner Of Over 300 Foreign Institutions",
         "text": "Collaborating globally with over 300 institutions for expansive educational and research opportunities.",
         "delay": 200
     },
     {
         "id": 2,
-        "thumb": "icon2.png",
+        "thumb": "Icon_Study.svg",
         "title": "Benifit Of Otudies Overaeas",
         "text": "Enhancing careers through the diverse advantages of studying abroad and international exposure.",
         "delay": 400
     },
     {
         "id": 3,
-        "thumb": "icon3.png",
+        "thumb": "Icon_Work.svg",
         "title": "Our Glorious Work",
         "text": "Celebrating our distinguished achievements and the impactful legacy of our collective efforts.",
         "delay": 600
