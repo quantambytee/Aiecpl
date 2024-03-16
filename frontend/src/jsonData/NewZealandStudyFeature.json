@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "icon": "flaticon-art",
+        "title": "World-Class Education",
+        "text": "New Zealand is renowned for its top-quality education system. Its universities and institutions consistently rank among the best globally, offering a wide range of programs and courses tailored to meet the needs of international students",
+        "icon2": "fas fa-arrow-right",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-cloud-computing-1",
+        "title": "Safe and Welcoming Environment",
+        "text": "New Zealand is known for its friendly and inclusive society. With its low crime rates and welcoming atmosphere, international students feel safe and supported throughout their time in the country.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "icon": "flaticon-development-3",
+        "title": "Stunning Natural Beauty",
+        "text": "From majestic mountains and pristine beaches to lush forests and sparkling lakes, New Zealand boasts some of the most breathtaking landscapes in the world. Students have the opportunity to explore its natural wonders and enjoy outdoor activities such as hiking, skiing, and surfing.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "icon": "flaticon-analysis-1",
+        "title": "Diverse Cultural Experience",
+        "text": "New Zealand is home to a rich tapestry of cultures, making it a vibrant and diverse place to study. Students have the chance to interact with people from various backgrounds, learn about different cultures, and broaden their perspectives.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "icon": "flaticon-web-development",
+        "title": "Research and Innovation",
+        "text": "New Zealand is at the forefront of research and innovation in fields such as agriculture, environmental science, and renewable energy. Students have access to cutting-edge facilities and opportunities to collaborate with leading researchers and industry experts",
+        "icon2": "fas fa-arrow-right",
+        "delay": 1000
+    }
+]

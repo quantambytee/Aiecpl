@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "icon": "flaticon-art",
+        "title": "Academic Excellence",
+        "text": "Japan is home to world-renowned universities and research institutions known for their rigorous academic standards and innovative research contributions. Studying in Japan provides access to high-quality education across a wide range of disciplines",
+        "icon2": "fas fa-arrow-right",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-cloud-computing-1",
+        "title": "Cultural Immersion",
+        "text": "Immerse yourself in Japan's rich cultural heritage, from traditional tea ceremonies and festivals to modern pop culture phenomena like anime and manga. Studying in Japan offers a unique opportunity to experience a blend of ancient traditions and contemporary lifestyle.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "icon": "flaticon-development-3",
+        "title": "Cutting-Edge Technology",
+        "text": "As a global leader in technology and innovation, Japan offers unparalleled opportunities for students interested in fields such as engineering, robotics, information technology, and biotechnology. Gain hands-on experience and access state-of-the-art facilities at leading Japanese institutions",
+        "icon2": "fas fa-arrow-right",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "icon": "flaticon-analysis-1",
+        "title": "Safe and Welcoming Environment",
+        "text": "Japan is renowned for its safety, cleanliness, and hospitality towards international visitors. Experience Japanese hospitality (omotenashi) and feel welcomed in a country known for its politeness and respect for others.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "icon": "flaticon-web-development",
+        "title": "Language and Cultural Exchange",
+        "text": "Develop proficiency in the Japanese language and deepen your understanding of Japanese culture through immersive language programs and cultural activities. Enhance your global perspective and broaden your horizons through interactions with Japanese peers and faculty members.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 1000
+    }
+]

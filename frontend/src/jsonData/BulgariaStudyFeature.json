@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "icon": "flaticon-art",
+        "title": "Affordable Education",
+        "text": "Bulgaria offers affordable tuition fees and living costs compared to many other European countries, making it an attractive destination for international students seeking high-quality education without breaking the bank.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-cloud-computing-1",
+        "title": "Rich Cultural Heritage",
+        "text": "Immerse yourself in Bulgaria's rich cultural heritage, which spans thousands of years and includes diverse influences from Thracian, Greek, Roman, Byzantine, and Ottoman civilizations. Explore ancient ruins, historic landmarks, and vibrant traditions throughout the country.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "icon": "flaticon-development-3",
+        "title": "High-Quality Education",
+        "text": "Bulgarian universities and institutions maintain high academic standards and offer a wide range of programs taught in English and other languages. Benefit from expert faculty, modern facilities, and innovative teaching methods designed to foster critical thinking and academic excellence.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "icon": "flaticon-analysis-1",
+        "title": "Strategic Location",
+        "text": "Situated at the crossroads of Europe and Asia, Bulgaria offers easy access to other European destinations and opportunities for travel and exploration. Experience the country's diverse landscapes, from sandy beaches along the Black Sea coast to majestic mountains and picturesque villages.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "icon": "flaticon-web-development",
+        "title": "Warm and Welcoming Environment",
+        "text": "Bulgarians are known for their hospitality and friendliness towards international visitors. Experience the warmth of Bulgarian hospitality as you integrate into local communities and forge lifelong friendships with students from around the world.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 1000
+    },
+    {
+        "id": 6,
+        "icon": "flaticon-plan",
+        "title": "Part-Time Work and Post-Graduation Employment",
+        "text": "Germany’s student-friendly policies include provisions for part-time work during studies and post-graduation employment opportunities, offering financial support and valuable practical experience to international students. While pursuing their studies, students are allowed to work part-time, typically up to 120 full days or 240 half days per year, providing a means to cover living expenses and gain professional exposure. Moreover, Germany encourages the retention of international talent, allowing graduates from recognized institutions to extend their stay for up to 18 months to seek employment after completing their studies.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 1200
+    }
+]

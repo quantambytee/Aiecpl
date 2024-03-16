@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "icon": "flaticon-art",
+        "title": "Affordable Education",
+        "text": "Bangladesh offers affordable tuition fees and living costs compared to many other study destinations, making it an attractive option for international students seeking quality education without financial burden",
+        "icon2": "fas fa-arrow-right",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-cloud-computing-1",
+        "title": "Diverse Academic Programs",
+        "text": "Bangladesh boasts a diverse range of academic programs across various disciplines, including engineering, medicine, business, humanities, and social sciences. Students have access to high-quality education delivered by experienced faculty members.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "icon": "flaticon-development-3",
+        "title": "Cultural Diversity",
+        "text": "Experience the vibrant cultural tapestry of Bangladesh, where tradition and modernity intersect. Immerse yourself in Bengali language, literature, music, and festivals while interacting with friendly locals and fellow students from diverse backgrounds",
+        "icon2": "fas fa-arrow-right",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "icon": "flaticon-analysis-1",
+        "title": "Growing Economy",
+        "text": "As one of the fastest-growing economies in the world, Bangladesh offers ample opportunities for academic and professional growth. Students can gain insights into emerging industries, entrepreneurship, and development initiatives within the country.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "icon": "flaticon-web-development",
+        "title": "Warm Hospitality",
+        "text": "Experience the renowned hospitality of the Bangladeshi people, known for their warmth, kindness, and generosity towards guests. Feel at home in a welcoming and supportive community that values cultural exchange and mutual respect",
+        "icon2": "fas fa-arrow-right",
+        "delay": 1000
+    }
+]
