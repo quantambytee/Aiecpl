@@ -14,6 +14,9 @@ import Contact from "./pages/contact/Contact";
 import Blog from "./pages/blog/Blog";
 import Error404 from "./pages/error/Error404";
 import WhyChooseUsV1 from "./components/WhyChooseUs/WhyChooseUsV1";
+import KazakhstanServiceDetails from "./pages/servicesPages/KazakstanServiceDetails";
+import BelgiumServiceDetails from "./pages/servicesPages/BelgiumServiceDetails";
+import PolandServiceDetails from "./pages/servicesPages/PolandServiceDetails";
 const Routers = () => {
   return (
     <>
@@ -41,6 +44,18 @@ const Routers = () => {
           element={<BangaladeshServiceDetails />}
         ></Route>
         <Route path="/nepal-details" element={<NepalServiceDetails />}></Route>
+        <Route
+          path="/kazakhstan-details"
+          element={<KazakhstanServiceDetails />}
+        ></Route>
+        <Route
+          path="/belgium-details"
+          element={<BelgiumServiceDetails />}
+        ></Route>
+        <Route
+          path="/poland-details"
+          element={<PolandServiceDetails />}
+        ></Route>
         <Route path="/college-finder" element={<Blog />}></Route>
         <Route path="/discover-more" element={<WhyChooseUsV1 />}></Route>
         <Route path="*" element={<Error404 />}></Route>

@@ -1,13 +1,16 @@
 import React from "react";
 import { HashLink as Link } from "react-router-hash-link";
-import studyInAustralia from "../../assets/images/services/studyInAustralia.jpeg";
-import italy from "../../assets/images/services/italy.jpeg";
+import studyInAustralia from "../../assets/images/services/ausrtalia.jpeg";
+import italy from "../../assets/images/services/Italy.png";
 import germany from "../../assets/images/services/germany.jpeg";
 import japan from "../../assets/images/services/japan.jpeg";
 import newzealand1 from "../../assets/images/services/newzealand1.jpeg";
 import Bulgariabanner from "../../assets/images/services/Bulgariabanner.png";
 import bangladesh from "../../assets/images/services/bangladesh.jpeg";
 import nepal from "../../assets/images/services/nepal.jpeg";
+import kazasthan from "../../assets/images/services/kazasthan.jpeg";
+import poland from "../../assets/images/services/poland.jpeg";
+import belgium from "../../assets/images/services/belgium.png";
 // import university from "../../assets/images/services/university.jpg";
 
 const countryBanner = {
@@ -19,6 +22,9 @@ const countryBanner = {
   "Bulgaria Details": Bulgariabanner,
   "Bangaladesh Details": bangladesh,
   "Nepal Details": nepal,
+  "Kazakhstan Details": kazasthan,
+  "Poland Details": poland,
+  "Belgium Details": belgium,
 };
 const BreadCums = ({ pageTitle, pageLink }) => {
   return (

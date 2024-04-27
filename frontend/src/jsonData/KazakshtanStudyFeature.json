@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "icon": "flaticon-art",
+        "title": "Benefits of studying in Kazakhstan",
+        "text": "While studying in Kazakhstan is affordable compared to many other countries, it's essential to budget for tuition fees, accommodation, food, transportation, and other living expenses.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-cloud-computing-1",
+        "title": "Study Options Kazakhstan",
+        "text": "Kazakhstan offers a wide range of study options to cater to diverse interests and career aspirations. Whether you're interested in undergraduate, postgraduate, or research programs",
+        "icon2": "fas fa-arrow-right",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "icon": "flaticon-development-3",
+        "title": "academic Culture",
+        "text": "Kazakhstan, with its rich history, diverse culture, and growing education sector, offers a unique and dynamic environment for international students.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 600
+    }
+   
+]

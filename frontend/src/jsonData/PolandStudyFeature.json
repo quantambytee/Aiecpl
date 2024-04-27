@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "icon": "flaticon-art",
+        "title": "Academic Excellence",
+        "text": "Poland boasts a rich academic tradition with universities consistently ranked among the top in global university rankings. Institutions like the University of Warsaw, Jagiellonian University, and Warsaw University of Technology are known for their high academic standards.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-cloud-computing-1",
+        "title": "Diverse Range of Programs",
+        "text": "Polish universities offer a wide variety of programs in various disciplines, ensuring that students can find courses aligned with their academic and career aspirations. The diverse range of programs includes arts and humanities, sciences, engineering, business, and more.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "icon": "flaticon-development-3",
+        "title": "Research Opportunities",
+        "text": "Poland is a hub for research and innovation. Students have access to cutting-edge research facilities and can actively engage in research projects, contributing to advancements in their respective fields.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 600
+    }, {
+        "id": 4,
+        "icon": "flaticon-development-3",
+        "title": "Affordability",
+        "text": "Compared to many Western European countries, Poland offers affordable tuition fees and living costs. This makes it an attractive option for international students looking for high-quality education without breaking the bank.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 600
+    }
+   
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "icon": "flaticon-art",
+        "title": "Benefits of studying in Belgium",
+        "text": "Belgium, a country known for its rich history, multiculturalism, and world-class education system, offers a unique and rewarding experience for international students.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-cloud-computing-1",
+        "title": "Global Academic Excellence",
+        "text": "Belgium’s global academic excellence is exemplified by its renowned universities, such as KU Leuven and Ghent University, which consistently rank among the world’s best. These institutions uphold rigorous standards of education, attracting students from around the globe seeking an unparalleled academic experience. The country’s commitment to cutting-edge research and innovation is evident in the vibrant research initiatives undertaken by its universities, providing students with opportunities to engage in groundbreaking projects.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "icon": "flaticon-development-3",
+        "title": "Research and Innovation Hub",
+        "text": "Belgium stands as a vibrant research and innovation hub, where its universities and institutions actively contribute to advancements in various fields. Renowned for cutting-edge research initiatives, Belgium provides a fertile ground for intellectual exploration and innovation. Universities such as KU Leuven and Ghent University are at the forefront of groundbreaking research, fostering an environment where students and faculty collaborate on projects that address global challenges. ",
+        "icon2": "fas fa-arrow-right",
+        "delay": 600
+    }
+   
+]

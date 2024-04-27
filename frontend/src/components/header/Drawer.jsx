@@ -80,7 +80,9 @@ function Drawer({ drawer, action }) {
                     <li
                       className="menu-item-has-children active"
                       id="service"
-                      onClick={(e) => handler(e, "service")}
+                      onClick={(e) => {
+                        handler(e, "service");
+                      }}
                     >
                       {/* <span className="menu-expand">
                                                 <i className="fa fa-angle-down"></i>
