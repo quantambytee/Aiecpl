@@ -17,6 +17,7 @@ import WhyChooseUsV1 from "./components/WhyChooseUs/WhyChooseUsV1";
 import KazakhstanServiceDetails from "./pages/servicesPages/KazakstanServiceDetails";
 import BelgiumServiceDetails from "./pages/servicesPages/BelgiumServiceDetails";
 import PolandServiceDetails from "./pages/servicesPages/PolandServiceDetails";
+import About from "./pages/aboutPages/About";
 const Routers = () => {
   return (
     <>
@@ -56,6 +57,7 @@ const Routers = () => {
           path="/poland-details"
           element={<PolandServiceDetails />}
         ></Route>
+        <Route path="/Universities&cources" element={<About />}></Route>
         <Route path="/college-finder" element={<Blog />}></Route>
         <Route path="/discover-more" element={<WhyChooseUsV1 />}></Route>
         <Route path="*" element={<Error404 />}></Route>

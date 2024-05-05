@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "title": "Navigating Global Education",
+        "text": "Welcome to AIECPL, your trusted guide in navigating the complex landscape of global education. With decades of experience and a proven track record of success, we are proud to be recognized as the most experienced overseas education consultant in India. Whether you're a student aspiring to study abroad, a researcher seeking international collaborations, or an institution looking to expand your global footprint, we are here to support you every step of the way.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "title": "Counsellor Excellence",
+        "text": "Welcome to AIECPL, where counselor excellence is at the heart of everything we do. With the highest number of certified counselors in the industry, we pride ourselves on providing unparalleled guidance and support to students seeking to pursue their education abroad. Our certified counselors are not just advisors; they are mentors, advocates, and allies dedicated to helping you achieve your academic and career aspirations with confidence and clarity.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 200
+    },
+    {
+        "id": 3,
+        "title": "Loan Application Simplified",
+        "text": "Welcome to AIECPL, where we understand that financing your education abroad is a crucial part of your journey. That's why we've simplified the loan application process to make it as smooth and hassle-free as possible. With our expertise and guidance, you can navigate the complexities of securing funding for your international education with confidence and ease.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 200
+    }
+    ,
+    {
+        "id": 4,
+        "title": "Visa Success Guaranteed",
+        "text": "Welcome to AIECPL, where your visa success is our top priority. With our unparalleled expertise and proven track record, we guarantee a 100% visa success rate for our clients. Whether you're applying for a student visa, work visa, tourist visa, or any other type of visa, you can trust our experienced team to guide you through the process and ensure a smooth and successful outcome.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 200
+    }
+    
+    
+]

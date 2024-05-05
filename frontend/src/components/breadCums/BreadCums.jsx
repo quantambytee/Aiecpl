@@ -11,7 +11,7 @@ import nepal from "../../assets/images/services/nepal.jpeg";
 import kazasthan from "../../assets/images/services/kazasthan.jpeg";
 import poland from "../../assets/images/services/poland.jpeg";
 import belgium from "../../assets/images/services/belgium.png";
-// import university from "../../assets/images/services/university.jpg";
+import Bbanner from "../../assets/images/Bbanner.jpg";
 
 const countryBanner = {
   "Italy Details": italy,
@@ -25,6 +25,7 @@ const countryBanner = {
   "Kazakhstan Details": kazasthan,
   "Poland Details": poland,
   "Belgium Details": belgium,
+  "Abroad & Universities": Bbanner,
 };
 const BreadCums = ({ pageTitle, pageLink }) => {
   return (

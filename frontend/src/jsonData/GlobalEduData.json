@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "icon": "flaticon-art",
+        "title": "Expert Guidance",
+        "text": "As pioneers in the field of international education consulting, we bring unparalleled expertise and insight to help you navigate the intricacies of studying abroad. Our team of experienced counselors, advisors, and consultants are dedicated to providing personalized guidance and support tailored to your unique needs and aspirations.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 200
+    },
+    {
+        "id": 2,
+        "icon": "flaticon-cloud-computing-1",
+        "title": "Comprehensive Services",
+        "text": "From university selection and program application assistance to visa guidance and pre-departure orientation, we offer a comprehensive suite of services to ensure a seamless and stress-free experience throughout your educational journey. Our end-to-end support covers all aspects of the study abroad process, allowing you to focus on achieving your academic and career goals.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 400
+    },
+    {
+        "id": 3,
+        "icon": "flaticon-development-3",
+        "title": "Extensive Network",
+        "text": "With a vast network of partner institutions, universities, and educational organizations around the world, we offer access to a diverse range of academic programs, research opportunities, and cultural experiences. Whether you're interested in studying in the United States, Canada, Australia, the United Kingdom, or any other destination, we can help you find the perfect fit for your academic and personal goals.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 600
+    },
+    {
+        "id": 4,
+        "icon": "flaticon-analysis-1",
+        "title": "Customized Solutions",
+        "text": "At AIECPL, we understand that every student is unique, and we take pride in offering customized solutions to meet your individual needs and preferences. Whether you're looking for undergraduate programs, graduate studies, language courses, or professional development opportunities, we work closely with you to tailor our services to align with your aspirations and interests.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 800
+    },
+    {
+        "id": 5,
+        "icon": "flaticon-web-development",
+        "title": "Transparent Process",
+        "text": "We believe in transparency and integrity in all our interactions, and we strive to provide clear and honest information to empower you to make informed decisions about your educational journey. From advising on program requirements and eligibility criteria to explaining visa regulations and financial considerations, we ensure that you have all the information you need to make the best choices for your future.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 1000
+    },
+    {
+        "id": 6,
+        "icon": "flaticon-plan",
+        "title": "Continued Support:",
+        "text": "Our commitment to your success extends beyond the initial application process, as we provide ongoing support and assistance throughout your time abroad. Whether you need help with academic challenges, cultural adjustments, or career planning, our dedicated team is always available to provide guidance, advice, and encouragement whenever you need it.",
+        "icon2": "fas fa-arrow-right",
+        "delay": 1200
+    }
+]

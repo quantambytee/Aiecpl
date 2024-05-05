@@ -126,7 +126,19 @@
 }
   /* Add other custom styles if needed */
   
-  
+  .our-vision {
+    flex: 1 1 auto !important;
+    width: 41.66666667%;
+ }
+@media (min-width: 1200px) {
+ .our-vision {
+    flex: 1 1 auto !important;
+    width: 41.66666667%;
+ }
+}
+.cources-universities-feature{
+  height: 54vh;
+}
     
   /* Additional custom styles for form elements can go here */
   

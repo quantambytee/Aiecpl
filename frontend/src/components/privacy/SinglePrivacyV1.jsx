@@ -13,6 +13,7 @@ const imageSrc = {
 };
 const SinglePrivacyV1 = ({ privacy }) => {
   const { icon, title, text } = privacy;
+  // console.log("key", privacy);
   let imgSrc = imageSrc[icon];
   return (
     <>
@@ -22,7 +23,9 @@ const SinglePrivacyV1 = ({ privacy }) => {
         </div>
         <div className="content">
           <h4>
-            <Link to="/#">{title}</Link>
+            <Link to={{ pathname: "/Universities&cources", state: { title } }}>
+              {title}
+            </Link>
           </h4>
           <p>{text}</p>
         </div>
