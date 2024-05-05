@@ -8,9 +8,9 @@ const AboutV8 = (props) => {
   const { aboutSpace } = props;
   console.log("props", props);
   const location = useLocation();
-  const { title } = location.state || {};
-  console.log("location", location.state);
-  console.log("location", title);
+  // const { title } = location.state || {};
+  // console.log("location", location.state);
+  // console.log("location", title);
   return (
     <>
       <section className={`about-seven rel z-1 pt-150 rpt-30 ${aboutSpace}`}>
