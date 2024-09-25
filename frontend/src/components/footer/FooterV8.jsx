@@ -73,21 +73,23 @@ const FooterV8 = () => {
                     <i className="fas fa-phone-alt"></i>
                     <span>
                       <b>Phone : </b>{" "}
-                      <a href="tel:(+001)256689">(+91) 8789701805</a>
+                      <a href="tel:(+001)256689">
+                        (+91) 8789701805 | 6123112401
+                      </a>
                     </span>
                   </li>
                   <li>
                     <i className="fas fa-envelope"></i>
                     <span>
                       <b>Email : </b>{" "}
-                      <a href="mailto:motal@gmail.com">info@aiecpl.in</a>
+                      <a href="mailto:motal@gmail.com">info@aiecpl.com</a>
                     </span>
                   </li>
                   <li>
                     <i className="fas fa-map-marker-alt"></i>
                     <span>
-                      <b>Address : </b>Sinha Library Road, Patna 800001, Bihar
-                      India
+                      <b>Address : </b>Sai Shiv indra,Sinha Library Road,Near
+                      Bihar Board Office, Fraser Road,Patna 800001
                     </span>
                   </li>
                 </ul>

@@ -23,9 +23,7 @@ const SinglePrivacyV1 = ({ privacy }) => {
         </div>
         <div className="content">
           <h4>
-            <Link to={{ pathname: "/Universities&cources#", state: { title } }}>
-              {title}
-            </Link>
+            <Link to="/Universities&cources#">{title}</Link>
           </h4>
           <p>{text}</p>
         </div>
