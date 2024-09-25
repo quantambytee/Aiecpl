@@ -38,12 +38,11 @@ const HeaderMenuV1 = () => {
                   <Link to="tel:548978478">+91 8789701805 | 6123112401</Link>
                 </li>
                 <li>
-                  Email us:{" "}
-                  <Link to="mailto:nfo@aiecpl.in">info@aiecpl.com</Link>
+                  Email: <Link to="mailto:nfo@aiecpl.in">info@aiecpl.com</Link>
                 </li>
                 <li>
-                  Our address:Sai Shiv Indra, Sinha Library Road, Near Bihar
-                  Board Office Patna 800001
+                  Our address: Sai Shiv indra,Sinha Library Road,Near Bihar
+                  Board Office, Fraser Road,Patna 800001
                 </li>
               </ul>
             </div>

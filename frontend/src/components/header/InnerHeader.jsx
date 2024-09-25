@@ -37,8 +37,7 @@ const InnerHeader = () => {
                       <a href="tel:8789701805">+91 8789701805 | 6123112401</a>
                     </li>
                     <li>
-                      Email us:{" "}
-                      <a href="mailto:info@aiecpl.in">info@aiecpl.com</a>
+                      Email: <a href="mailto:info@aiecpl.in">info@aiecpl.com</a>
                     </li>
                   </ul>
                 </div>
